@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="floatingPointMultiplier">
+		<CBX_INST_ENTRY INSTANCE_NAME="|fp_multiplier_top|fpMultiplier:uut|lpm_mult:Mult0" CBX_FILE_NAME="mult_eat.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

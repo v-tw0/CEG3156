@@ -1,0 +1,158 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Efp_multiplier_top
+Z0 w1738634602
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\ALEXD\Desktop\CEG3156\Lab 1\Multiplier
+Z5 8C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top.vhd
+Z6 FC:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top.vhd
+l0
+L5
+VcQeNd=E^4W984cCzX_dM52
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1738951922.391000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top.vhd|
+Z10 !s107 C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 dRY<nI]SgR_kl^b?PDMgR3
+!i10b 1
+Abehavior
+R1
+R2
+R3
+Z13 DEx4 work 17 fp_multiplier_top 0 22 cQeNd=E^4W984cCzX_dM52
+l31
+L18
+V8n_BGW@hEDQcR>bZc:LlE1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 ?O>BN?1e@nA76T@NJY6o[1
+!i10b 1
+Efp_multiplier_top_tb
+Z14 w1738635032
+R1
+R2
+R3
+R4
+Z15 8C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top_tb.vhd
+Z16 FC:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top_tb.vhd
+l0
+L5
+VEJ@di_afc9j[mRB;NH2Ld3
+R7
+32
+Z17 !s108 1738951922.550000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top_tb.vhd|
+Z19 !s107 C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fp_multiplier_top_tb.vhd|
+R11
+R12
+!s100 GF=jJ_QYdd@g2j<1S7XIJ2
+!i10b 1
+Abehavior
+R13
+R1
+R2
+R3
+DEx4 work 20 fp_multiplier_top_tb 0 22 EJ@di_afc9j[mRB;NH2Ld3
+l21
+L8
+VP>>H4F07JYU>Vi0LoGWlz3
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 ^i5c80SST3HJ:JgPTCZDc1
+!i10b 1
+Efpmultiplier
+Z20 w1738598296
+Z21 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z22 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z23 8C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fpMultiplier.vhd
+Z24 FC:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fpMultiplier.vhd
+l0
+L5
+VFAdKGRAdcG8@B_dC?UVJi2
+R7
+32
+Z25 !s108 1738951922.691000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fpMultiplier.vhd|
+Z27 !s107 C:/Users/ALEXD/Desktop/CEG3156/Lab 1/Multiplier/fpMultiplier.vhd|
+R11
+R12
+!s100 HFJYR[j:3YF<dc@D?2YO11
+!i10b 1
+Abehavioral
+R21
+R22
+R2
+R3
+DEx4 work 12 fpmultiplier 0 22 FAdKGRAdcG8@B_dC?UVJi2
+l13
+L11
+VIO`@^c?PWamz>?0T9FJQH1
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 Bh?zZkhK`2>e3:g<ObNZA2
+!i10b 1
+Efpmultiplier_tb
+Z28 w1738954343
+R21
+R22
+R2
+R3
+R4
+Z29 8C:\Users\ALEXD\Desktop\CEG3156\Lab 1\Multiplier\fpMultiplier_tb.vhd
+Z30 FC:\Users\ALEXD\Desktop\CEG3156\Lab 1\Multiplier\fpMultiplier_tb.vhd
+l0
+L5
+Vj4LRGl_;37a>XkMYnkXab2
+!s100 <z:AcQNUUa[YMK4CJ:6:22
+R7
+32
+!i10b 1
+Z31 !s108 1738954366.075000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ALEXD\Desktop\CEG3156\Lab 1\Multiplier\fpMultiplier_tb.vhd|
+Z33 !s107 C:\Users\ALEXD\Desktop\CEG3156\Lab 1\Multiplier\fpMultiplier_tb.vhd|
+R11
+R12
+Abehavioral
+R21
+R22
+R2
+R3
+Z34 DEx4 work 15 fpmultiplier_tb 0 22 j4LRGl_;37a>XkMYnkXab2
+l25
+L8
+V:VE[ID2QSQMY2[1OJLf@]0
+!s100 6@[jGh5bTAiVIL<YiX[XA2
+R7
+32
+!i10b 1
+R31
+R32
+R33
+R11
+R12

@@ -1,0 +1,8 @@
+
+State Machine - |fp_adder_top|fp_adder:uut|state
+Name state.OUTPUT_STATE state.NORMALIZE_STATE state.ADDITION_STATE state.ALIGN_STATE state.WAIT_STATE 
+state.WAIT_STATE 0 0 0 0 0 
+state.ALIGN_STATE 0 0 0 1 1 
+state.ADDITION_STATE 0 0 1 0 1 
+state.NORMALIZE_STATE 0 1 0 0 1 
+state.OUTPUT_STATE 1 0 0 0 1 

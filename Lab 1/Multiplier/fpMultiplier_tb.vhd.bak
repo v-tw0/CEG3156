@@ -1,0 +1,63 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity fpMultiplier_tb is
+end fpMultiplier_tb;
+
+architecture Behavioral of fpMultiplier_tb is
+
+    -- Component Declaration
+    component fpMultiplier
+        Port ( x : in  STD_LOGIC_VECTOR (15 downto 0);
+               y : in  STD_LOGIC_VECTOR (15 downto 0);
+               z : out STD_LOGIC_VECTOR (15 downto 0));
+    end component;
+
+    -- Signals for inputs and outputs
+    signal x, y, z : STD_LOGIC_VECTOR (15 downto 0);
+
+    -- Extracted Components
+    signal SignA, SignB, SignProduct : STD_LOGIC;
+    signal ExponentA, ExponentB, ExponentProduct : STD_LOGIC_VECTOR (6 downto 0);
+    signal MantissaA, MantissaB, MantissaProduct : STD_LOGIC_VECTOR (7 downto 0);
+
+begin
+
+    -- Instantiate the UUT (Unit Under Test)
+    uut: fpMultiplier port map (
+        x => x,
+        y => y,
+        z => z
+    );
+
+    -- Extract Components
+    SignA        <= x(15);
+    ExponentA    <= x(14 downto 8);
+    MantissaA    <= x(7 downto 0);
+
+    SignB        <= y(15);
+    ExponentB    <= y(14 downto 8);
+    MantissaB    <= y(7 downto 0);
+
+    SignProduct  <= z(15);
+    ExponentProduct <= z(14 downto 8);
+    MantissaProduct <= z(7 downto 0);
+
+    -- Stimulus Process
+    process
+    begin
+        -- Test case: -5.75 * 2.5
+        x <= "0100000010110011"; -- -5.75 (C1 70)
+        y <= "1100000101110000"; -- 2.5   (40 40)
+        
+        wait for 100 ns;  -- Wait for multiplication to complete
+        
+        -- Check the result
+        assert z = "1100001011001000" -- -14.375 (C2 C8)
+        report "Test passed: -5.75 * 2.5 = -14.375" severity note;
+
+        wait; -- Stop simulation
+    end process;
+
+end Behavioral;
