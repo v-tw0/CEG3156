@@ -1,0 +1,606 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files\altera\13.0sp1\modelsim_ase\win32aloem
+Eaddsub8bit
+Z0 w1741571162
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dG:\Desktop\CEG3156\Lab 2
+8G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd
+FG:/Desktop/CEG3156/Lab 2/addSub8bit.vhd
+l0
+L4
+Vcm_j1>D4>Ez@K]YRfFkRP2
+Z4 OV;C;10.1d;51
+32
+Z5 o-work work -2002 -explicit -O0
+Z6 tExplicit 1
+!s100 eX]Z^9VVlfgk2kYM;4REY3
+!i10b 1
+!s108 1741571269.594000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd|
+!s107 G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd|
+Ealu
+Z7 w1741571162
+R1
+R2
+R3
+8G:/Desktop/CEG3156/Lab 2/ALU.vhd
+FG:/Desktop/CEG3156/Lab 2/ALU.vhd
+l0
+L4
+VXWekF6m<]5az]<KNk[R:00
+R4
+32
+R5
+R6
+!s100 T;W7R<[M`I5Y@eGR[AfN>1
+!i10b 1
+!s108 1741571269.863000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/ALU.vhd|
+!s107 G:/Desktop/CEG3156/Lab 2/ALU.vhd|
+Econtrolunit
+R7
+R1
+R2
+R3
+Z8 8G:/Desktop/CEG3156/Lab 2/ControlUnit.vhd
+Z9 FG:/Desktop/CEG3156/Lab 2/ControlUnit.vhd
+l0
+L4
+VXI2:8b_HJnn27==noniP;2
+R4
+32
+Z10 !s108 1741571269.982000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/ControlUnit.vhd|
+Z12 !s107 G:/Desktop/CEG3156/Lab 2/ControlUnit.vhd|
+R5
+R6
+!s100 BF?HoR3liPd3S2J29Kdbd0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 11 controlunit 0 22 XI2:8b_HJnn27==noniP;2
+l16
+L12
+VVIl?GE8Qzf_z7z<IeCFDm1
+R4
+32
+R10
+R11
+R12
+R5
+R6
+!s100 Ba0b<]2FP?0C3Yl`gXgg13
+!i10b 1
+Edatamem
+R7
+R1
+R2
+R3
+Z13 8G:/Desktop/CEG3156/Lab 2/DataMem.vhd
+Z14 FG:/Desktop/CEG3156/Lab 2/DataMem.vhd
+l0
+L42
+VLUTb`BcBGEhldU7@z=n723
+R4
+32
+Z15 !s108 1741571270.202000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/DataMem.vhd|
+Z17 !s107 G:/Desktop/CEG3156/Lab 2/DataMem.vhd|
+R5
+R6
+!s100 D4QQ52?z6[XcVlzL^BX>`0
+!i10b 1
+Asyn
+R1
+R2
+DEx4 work 7 datamem 0 22 LUTb`BcBGEhldU7@z=n723
+l89
+L55
+V:>I]9f206ENn@[[8Yfa?C3
+R4
+32
+R15
+R16
+R17
+R5
+R6
+!s100 ebCo]Fj18DWm8UWM2__Xn0
+!i10b 1
+Edecoder3to8
+R7
+R1
+R2
+R3
+Z18 8G:/Desktop/CEG3156/Lab 2/decoder3to8.vhd
+Z19 FG:/Desktop/CEG3156/Lab 2/decoder3to8.vhd
+l0
+L4
+V[i^8F;G_6_2SkS2ZkEL]i0
+R4
+32
+Z20 !s108 1741571270.437000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/decoder3to8.vhd|
+Z22 !s107 G:/Desktop/CEG3156/Lab 2/decoder3to8.vhd|
+R5
+R6
+!s100 0d0cW>W1gmBnAcCnJTc9l0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 11 decoder3to8 0 22 [i^8F;G_6_2SkS2ZkEL]i0
+l13
+L11
+VIcN`TVfL`6BWf<O<U]mFV0
+R4
+32
+R20
+R21
+R22
+R5
+R6
+!s100 PJW5;dFV5b364m9?M_P6Y1
+!i10b 1
+Eenardff_2
+R7
+R1
+R2
+R3
+Z23 8G:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd
+Z24 FG:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd
+l0
+L31
+VW45mLHZkgINE^UQaXmP5[3
+R4
+32
+Z25 !s108 1741571270.659000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd|
+Z27 !s107 G:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd|
+R5
+R6
+!s100 LM:aJ[Ade62O^TDCQB2jH0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 9 enardff_2 0 22 W45mLHZkgINE^UQaXmP5[3
+l43
+L40
+V3clzVS[W5TXh[=;E;]4B51
+R4
+32
+R25
+R26
+R27
+R5
+R6
+!s100 n`NKG5gX7V@?eV@4dAU663
+!i10b 1
+Efulladder
+R7
+R1
+R2
+R3
+Z28 8G:/Desktop/CEG3156/Lab 2/fullAdder.vhd
+Z29 FG:/Desktop/CEG3156/Lab 2/fullAdder.vhd
+l0
+L4
+V32@BBTo_5gH@FEC779PPJ1
+R4
+32
+Z30 !s108 1741571270.969000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/fullAdder.vhd|
+Z32 !s107 G:/Desktop/CEG3156/Lab 2/fullAdder.vhd|
+R5
+R6
+!s100 FVmG619fzTCEUFzjV]mUY0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 9 fulladder 0 22 32@BBTo_5gH@FEC779PPJ1
+l13
+L11
+Vz2E`@QC`6khZN2R@[kzoA2
+R4
+32
+R30
+R31
+R32
+R5
+R6
+!s100 S8dkOPGm_Y>Rje[;:;[_=3
+!i10b 1
+Einstructionmem
+R7
+R1
+R2
+R3
+Z33 8G:/Desktop/CEG3156/Lab 2/instructionMem.vhd
+Z34 FG:/Desktop/CEG3156/Lab 2/instructionMem.vhd
+l0
+L42
+V1Df>SPVVT:MZz>dWH8SoP3
+R4
+32
+Z35 !s108 1741571271.179000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/instructionMem.vhd|
+Z37 !s107 G:/Desktop/CEG3156/Lab 2/instructionMem.vhd|
+R5
+R6
+!s100 AAGWWz1XzfheIEdASJ1S^3
+!i10b 1
+Asyn
+R1
+R2
+DEx4 work 14 instructionmem 0 22 1Df>SPVVT:MZz>dWH8SoP3
+l87
+L54
+V999HXR5B4@MP6j4cGAP_I0
+R4
+32
+R35
+R36
+R37
+R5
+R6
+!s100 XXae2K[ThV9ze5E4lg@WG3
+!i10b 1
+Emux2to1
+R7
+R1
+R2
+R3
+Z38 8G:/Desktop/CEG3156/Lab 2/mux2to1.vhd
+Z39 FG:/Desktop/CEG3156/Lab 2/mux2to1.vhd
+l0
+L4
+VXM6PYIVX4nNRHC7bUCYcI1
+R4
+32
+Z40 !s108 1741571271.348000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/mux2to1.vhd|
+Z42 !s107 G:/Desktop/CEG3156/Lab 2/mux2to1.vhd|
+R5
+R6
+!s100 :W1N;OO^^F9>SCEB]n:>W3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 7 mux2to1 0 22 XM6PYIVX4nNRHC7bUCYcI1
+l13
+L11
+VZ>4;DLh?Zde?llH@GnMZ22
+R4
+32
+R40
+R41
+R42
+R5
+R6
+!s100 oWdb2a9zIz:ZSoF49SVG33
+!i10b 1
+Emux4to1
+R7
+R1
+R2
+R3
+Z43 8G:/Desktop/CEG3156/Lab 2/mux4to1.vhd
+Z44 FG:/Desktop/CEG3156/Lab 2/mux4to1.vhd
+l0
+L3
+V9@d^RD;]6zi`9ce8l9gOl2
+R4
+32
+Z45 !s108 1741571271.536000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/mux4to1.vhd|
+Z47 !s107 G:/Desktop/CEG3156/Lab 2/mux4to1.vhd|
+R5
+R6
+!s100 o;a;L^cNd3fGVdnlTam;j2
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 7 mux4to1 0 22 9@d^RD;]6zi`9ce8l9gOl2
+l13
+L11
+VDLakVWkcKb4e4zZAoBYD51
+R4
+32
+R45
+R46
+R47
+R5
+R6
+!s100 MgEfQ<4Z7O8d31cK8L?J02
+!i10b 1
+Emux5bit2to1
+R7
+R1
+R2
+R3
+Z48 8G:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd
+Z49 FG:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd
+l0
+L4
+VSP]WmS2lAe4fCOHP1KEVX1
+R4
+32
+Z50 !s108 1741571271.747000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd|
+Z52 !s107 G:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd|
+R5
+R6
+!s100 TW?K<icd0PJhGS98AI^lN3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 11 mux5bit2to1 0 22 SP]WmS2lAe4fCOHP1KEVX1
+l14
+L12
+VG1bUkJ0L2ibG31g<D1:iB1
+R4
+32
+R50
+R51
+R52
+R5
+R6
+!s100 QJ`H5WfR80[?d4^nRiBfT2
+!i10b 1
+Emux8bit2to1
+R7
+R1
+R2
+R3
+Z53 8G:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd
+Z54 FG:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd
+l0
+L3
+VJ54z?7WCk5b]F>Yk7``520
+R4
+32
+Z55 !s108 1741571271.971000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd|
+Z57 !s107 G:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd|
+R5
+R6
+!s100 7Y9:CkHUX[inm3Af@^?dS2
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 11 mux8bit2to1 0 22 J54z?7WCk5b]F>Yk7``520
+l13
+L11
+Vi8IZ<F<;d;`^C4VNCNIl<2
+R4
+32
+R55
+R56
+R57
+R5
+R6
+!s100 m52m>4>06P[N==[;^_@`D1
+!i10b 1
+Emux8to1
+R7
+R1
+R2
+R3
+Z58 8G:/Desktop/CEG3156/Lab 2/mux8to1.vhd
+Z59 FG:/Desktop/CEG3156/Lab 2/mux8to1.vhd
+l0
+L3
+Vf3XRV?l3=diFhDb92OWC63
+R4
+32
+Z60 !s108 1741571272.175000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/mux8to1.vhd|
+Z62 !s107 G:/Desktop/CEG3156/Lab 2/mux8to1.vhd|
+R5
+R6
+!s100 _z5]fo1Hj`]I=bKJWF[oz2
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 7 mux8to1 0 22 f3XRV?l3=diFhDb92OWC63
+l31
+L11
+V1XFXV_OghQ?1QD5B11R4C3
+R4
+32
+R60
+R61
+R62
+R5
+R6
+!s100 Ie1Z[^hcNYR:IS4e@9L2C0
+!i10b 1
+Enbitmux8to1
+R7
+R1
+R2
+R3
+Z63 8G:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd
+Z64 FG:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd
+l0
+L4
+VQJE;EzhEK[;EZfDU3BLG@1
+R4
+32
+Z65 !s108 1741571272.436000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd|
+Z67 !s107 G:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd|
+R5
+R6
+!s100 hnQ8m<;RGnM:X9KQNLmhK1
+!i10b 1
+Astruct
+R1
+R2
+DEx4 work 11 nbitmux8to1 0 22 QJE;EzhEK[;EZfDU3BLG@1
+l42
+L25
+VA<FICCgZ^Ag2IoEkQ:;Be1
+R4
+32
+R65
+R66
+R67
+R5
+R6
+!s100 7ocSCYA?iSmdCzP2hQ[lT1
+!i10b 1
+Eregister8bit
+R7
+R1
+R2
+R3
+Z68 8G:/Desktop/CEG3156/Lab 2/register8bit.vhd
+Z69 FG:/Desktop/CEG3156/Lab 2/register8bit.vhd
+l0
+L4
+V6[4mcl985Di0WWnSGa2<L2
+R4
+32
+Z70 !s108 1741571272.633000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/register8bit.vhd|
+Z72 !s107 G:/Desktop/CEG3156/Lab 2/register8bit.vhd|
+R5
+R6
+!s100 iVJZB?3M;F9mk9Ie=K^BP1
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 12 register8bit 0 22 6[4mcl985Di0WWnSGa2<L2
+l22
+L12
+VN4Tb7HSM>dFmQ7XzR7HBY3
+R4
+32
+R70
+R71
+R72
+R5
+R6
+!s100 m:Oo?efWAESYYN<5A2UE^2
+!i10b 1
+Eregisterfile
+R7
+R1
+R2
+R3
+8G:/Desktop/CEG3156/Lab 2/registerFile.vhd
+FG:/Desktop/CEG3156/Lab 2/registerFile.vhd
+l0
+L4
+V_VoAc8XUHCAk5SKiRl=@20
+R4
+32
+R5
+R6
+!s100 acUN:;0f?U98QhhOD6PY`0
+!i10b 1
+!s108 1741571272.856000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/registerFile.vhd|
+!s107 G:/Desktop/CEG3156/Lab 2/registerFile.vhd|
+Eshift26bitl2
+R7
+R1
+R2
+R3
+Z73 8G:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd
+Z74 FG:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd
+l0
+L4
+VYhSRH7:AYRYYl3EUzzckD0
+R4
+32
+Z75 !s108 1741571272.991000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd|
+Z77 !s107 G:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd|
+R5
+R6
+!s100 z3X^_eUB1F3A56GVYN]:H0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 12 shift26bitl2 0 22 YhSRH7:AYRYYl3EUzzckD0
+l13
+L11
+VfVnW>^>gQZNU_ZmR1n=bG0
+R4
+32
+R75
+R76
+R77
+R5
+R6
+!s100 BSXl1D8[>P;cJhk`lhV;E1
+!i10b 1
+Eshiftl2
+R7
+R1
+R2
+R3
+Z78 8G:/Desktop/CEG3156/Lab 2/shiftL2.vhd
+Z79 FG:/Desktop/CEG3156/Lab 2/shiftL2.vhd
+l0
+L4
+VMzbKNS6<Y8ez]B[mM4hT:0
+R4
+32
+Z80 !s108 1741571273.226000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/shiftL2.vhd|
+Z82 !s107 G:/Desktop/CEG3156/Lab 2/shiftL2.vhd|
+R5
+R6
+!s100 IITCZ1cD4hlV[;E0N7`T_3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 7 shiftl2 0 22 MzbKNS6<Y8ez]B[mM4hT:0
+l13
+L11
+VlJCYgYKnZ1J2RR;7@34JP3
+R4
+32
+R80
+R81
+R82
+R5
+R6
+!s100 6X`kb]kLMIhi7QV[gZYSc3
+!i10b 1
+Esinglecycleprocessor
+R7
+R1
+R2
+R3
+8G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd
+FG:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd
+l0
+L4
+VTZIeg0;ZTFD]I<]nZPED70
+!s100 ;=PCcQk7eO`Q_7g`5RHF?1
+R4
+32
+!i10b 1
+!s108 1741571273.433000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd|
+!s107 G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd|
+R5
+R6

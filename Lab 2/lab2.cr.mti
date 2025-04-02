@@ -1,0 +1,189 @@
+{G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd} {0 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SingleCycleProcessor
+-- Compiling architecture rtl of SingleCycleProcessor
+** Error: G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd(290): (vcom-1436) Actual expression (infix expression) of formal "d5" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd(291): (vcom-1436) Actual expression (infix expression) of formal "d6" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd(292): (vcom-1436) Actual expression (infix expression) of formal "d7" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/SingleCycleProcessor.vhd(301): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0} {}} {G:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/shift26bitL2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift26bitL2
+-- Compiling architecture rtl of shift26bitL2
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/shiftL2.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/shiftL2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftL2
+-- Compiling architecture rtl of shiftL2
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/register8bit.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/register8bit.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity register8Bit
+-- Compiling architecture rtl of register8Bit
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/decoder3to8.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/decoder3to8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder3to8
+-- Compiling architecture rtl of decoder3to8
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/registerFile.vhd} {0 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/registerFile.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registerFile
+-- Compiling architecture rtl of registerFile
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(62): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(70): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(78): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(86): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(94): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(102): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(110): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(118): (vcom-1436) Actual expression (infix expression) of formal "i_load" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/registerFile.vhd(154): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0} {}} {G:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/enARdFF_2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity enARdFF_2
+-- Compiling architecture rtl of enARdFF_2
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/mux8bit2to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8bit2to1
+-- Compiling architecture rtl of mux8bit2to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/mux2to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/mux2to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1
+-- Compiling architecture rtl of mux2to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/ControlUnit.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/ControlUnit.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ControlUnit
+-- Compiling architecture rtl of ControlUnit
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/DataMem.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/DataMem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DataMem
+-- Compiling architecture SYN of datamem
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd} {0 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity addSub8bit
+-- Compiling architecture rtl of addSub8bit
+** Error: G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd(26): (vcom-1436) Actual expression (infix expression) of formal "B" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd(36): (vcom-1436) Actual expression (infix expression) of formal "B" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/addSub8bit.vhd(44): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 13.0} {}} {G:/Desktop/CEG3156/Lab 2/ALU.vhd} {0 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/ALU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture rtl of ALU
+** Error: G:/Desktop/CEG3156/Lab 2/ALU.vhd(39): (vcom-1436) Actual expression (infix expression) of formal "sub" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/ALU.vhd(47): (vcom-1436) Actual expression (infix expression) of formal "d0" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/ALU.vhd(48): (vcom-1436) Actual expression (infix expression) of formal "d1" is not globally static.
+
+** Error: G:/Desktop/CEG3156/Lab 2/ALU.vhd(57): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0} {}} {G:/Desktop/CEG3156/Lab 2/mux4to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/mux4to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4to1
+-- Compiling architecture rtl of mux4to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/nBitmux8to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nbitmux8to1
+-- Compiling architecture struct of nbitmux8to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/fullAdder.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/fullAdder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder
+-- Compiling architecture rtl of fullAdder
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/mux5bit2to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux5bit2to1
+-- Compiling architecture rtl of mux5bit2to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/mux8to1.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/mux8to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8to1
+-- Compiling architecture rtl of mux8to1
+
+} {} {}} {G:/Desktop/CEG3156/Lab 2/instructionMem.vhd} {1 {vcom -work work -2002 -explicit {G:/Desktop/CEG3156/Lab 2/instructionMem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity instructionMem
+-- Compiling architecture SYN of instructionmem
+
+} {} {}}
